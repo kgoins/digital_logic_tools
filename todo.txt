@@ -4,3 +4,8 @@
 -add boolean logic parser w/ truth table output
 -k-map generator
 -figure out how to separate major functions into files and compile them together
+
+floating point reference:
+
+2's comp referene:
+http://michaelwhatcott.com/a-few-bits-of-python/
