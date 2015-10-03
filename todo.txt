@@ -1,0 +1,6 @@
+-where should arguments from the interactive version be input
+-add in argv and argparse functionality
+-add float and 2s compliment
+-add boolean logic parser w/ truth table output
+-k-map generator
+-figure out how to separate major functions into files and compile them together
