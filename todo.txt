@@ -1,9 +1,16 @@
--where should arguments from the interactive version be input
+-where should arguments from the interactive version be input?
 -add in argv and argparse functionality
--add float and 2s compliment
--add boolean logic parser w/ truth table output
--k-map generator
--figure out how to separate major functions into files and compile them together
++figure out how to separate major functions into files and compile them together
+
+functions:
+- 2's compliment
+- full binary math calculator
+-- add, sub, mult, div
+-- and, or, not, xor, sll, srl
+-- test for overflow
+- convert int / decimal float to IEEE binary float
+- kmap generator: MPOS and MSOP output
+- add boolean logic parser w/ truth table output
 
 floating point reference:
 
